@@ -1,0 +1,118 @@
+.di {
+	display: grid;
+	grid-template-columns: auto auto auto;
+
+}
+.da1 {
+	border-color: black;
+	border:2px solid black;
+	border-right: 0px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+}
+.da2 {
+	border:2px solid black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+}
+.da3 {
+	border:2px solid black;
+	border-left: 0px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 1em;
+}
+.si {
+	display: grid;
+	grid-template-columns: auto auto;
+}
+.so1 {
+	border: 2px solid black;
+	border-color: black;
+	border-top:	1px; 
+	border-right: 1px;
+	font-family:Georgia, serif;
+}
+.h1 {
+	font-family: Georgia, serif;
+	font-size: 1.5em;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+
+}
+
+.so2 {
+	border: 2px solid black;
+	border-color: black;
+	border-top:	1px; 
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+
+
+}
+.h2 {
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1.5em;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+
+}
+.so3 {
+	border: 2px solid black;
+	border-color: black;
+	border-top:	1px; 
+	border-right: 1px;
+	font-family: "Arial Black", Gadget, sans-serif;
+
+}
+.h3 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 1.5em;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+
+}
+.so4 {
+	border: 2px solid black;
+	border-color: black;
+	border-top:	1px; 
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+
+}
+.h4 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1.5em;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+
+}
+.pro {
+	display: grid;
+	grid-template-columns: auto auto;
+
+}
+.pro1 {
+	border: 2px solid black;
+	border-color: black;
+	white-space:pre-wrap;
+	width: 465px;
+	border-right: 1px;
+	font-size: 0.7em;
+}
+.pro2 {
+	border: 2px solid black;
+	border-color: black;
+	white-space:pre-wrap;
+	width: 465px;
+	font-size: 0.7em;
+}
+
+
+
+
+
+
+
+
+
+
+
