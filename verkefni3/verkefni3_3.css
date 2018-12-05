@@ -1,0 +1,55 @@
+header {
+	background-color: #66D4CC;
+	height: 10em;
+	align-items:center;
+	justify-content:center;
+	display: grid;
+}
+.upp {
+	font-size: 3em;
+}
+.upp2 {
+	text-align: center;
+}
+nav {
+	background-color: #3DCFD9;
+	height:2.5em;
+	justify-content: center;
+	align-items:center;
+	display: grid;
+}
+li {
+	display: block;
+	float: left;
+}
+
+li a {
+	padding: 25px;
+}
+.mid {
+	display: grid;
+	grid-template-columns: 20% auto 20%;
+
+
+
+
+}
+article {
+	background-color: #8EFAB2;
+	font-size: 2em;
+}
+main {
+	background-color: #FEFEFE;
+
+}
+aside {
+	background-color: #8EFAB2;
+	font-size: 1em;}
+footer {
+	background-color: #3DCFD9;
+	height:2.5em;
+	justify-content: center;
+	align-items:center;
+	display: grid;
+}
+p {color: white}
