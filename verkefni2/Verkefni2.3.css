@@ -1,0 +1,90 @@
+h1 {font-size: 5px;}
+h2 {font-size: 5px;}
+h3 {font-size: 5px;}
+h4 {font-size: 5px;}
+h5 {font-size: 5px;}
+
+
+
+
+
+
+
+.loly {
+	width: 750px;
+	display:block;
+	border:1px solid red;
+	padding: 5px;
+}
+.mala{
+	
+	display: inline-block;
+	margin-bottom: 0px;
+	order: 1
+}
+
+.hentai1{
+	height: 300px;
+	width: 200px;
+	border: 2px solid black;
+	border-right: 1px solid black;
+	float: left;
+	font-size: 12px;
+	margin-left: 25px; 
+}
+.hentai2{
+	border: 2px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black; 
+	height: 300px;
+	width: 200px;
+	font-size: 12px;
+	float: left;
+}
+.hentai3{
+	border: 2px solid black;
+	border-left: 1px solid black; 
+	height: 300px;
+	width: 200px;
+	font-size: 12px;
+	float: left;
+	margin-right: 25px; 
+}
+.mili{
+	display: inline-block;
+	margin-top: -5px; 
+	order: 2
+
+}
+.hentai4{
+	border: 2px solid black;
+	width: 301px;
+	height: 200px;
+	font-size: 12px;
+	float: left;
+	margin-left: 25px; 
+	border-right: 1px
+}
+.hentai5{
+	border: 2px solid black;
+	width: 301px;
+	height: 200px;
+	font-size: 12px;
+	float: left;
+	margin-right: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

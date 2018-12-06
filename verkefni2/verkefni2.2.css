@@ -1,0 +1,136 @@
+
+.las {
+
+	width:700px ;
+
+	height:60px ;
+
+	font-size: 40px;
+
+	border:5px dashed green;
+
+	border-style: dashed;
+
+	padding-top: -50px;
+
+	margin-top: 10px;
+
+}
+
+ul {
+
+	display: block;
+}
+
+p {
+	font-size: 20px;
+}
+
+.les {
+	display: inline;
+	
+}
+
+h1 {
+	font;color: red ;
+	font-size: 20px ;
+}
+.lis1 {
+
+	width: 75px;
+	float: left;
+	padding: 5px ;
+	margin: 5px;
+	border-style: dashed;
+	border: 3px dashed blue;
+}
+.lis2 {
+
+	width: 75px;
+	float: left;
+	display: right;
+	padding: 5px ;
+	margin: 5px;
+	border-style: dashed;
+	border: 3px dashed blue;
+}
+.lis3 {
+
+	width: 75px;
+	float: left;
+	padding: 5px ;
+	margin: 5px;
+	border-style: dashed;
+	border: 3px dashed blue;
+}
+.lis4 {
+
+	width: 75px;
+	float: left;
+	padding: 5px ;
+	margin: 5px;
+	border-style: dashed;
+	border: 3px dashed blue;
+}
+
+
+.jis {
+	display: inline-block;
+}
+
+.jas1 {
+	padding:1em; 
+	margin:1em;
+	border-style:dashed;
+	border:3px dashed red;
+	float: left;
+}
+.jas2 {
+	padding:1em; 
+	margin:1em;
+	border-style:dashed;
+	border:3px dashed red;
+	float: left;
+}
+.jas3 {
+	padding:1em; 
+	margin:1em;
+	border-style:dashed;
+	border:3px dashed red;
+	float: left;
+}
+.jas4 {
+	padding:1em; 
+	margin:1em;
+	border-style:dashed;
+	border:3px dashed red;
+	float: left;
+}
+.jas5 {
+	padding:1em; 
+	margin:1em;
+	border-style:dashed;
+	border:3px dashed red;
+	float: left;
+}
+.jas6 {
+	padding:1em; 
+	margin:1em;
+	border-style:dashed;
+	border:3px dashed red;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
