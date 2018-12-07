@@ -1,0 +1,62 @@
+header {
+	background-color: #497CB7;
+	height: 21em;
+}
+.upp1 {
+	display: grid;
+	grid-template-columns: 75% 15% 15%;
+}
+.upp1_1 {
+	font-size: 1.5em;
+}
+.uppf1 {
+	height: 5em;
+}
+.upp2 {
+	display: grid;
+	grid-template-columns: 15% 30% 15% 25% 15%
+}
+.upp2_1 {
+	font-size: 4em;
+}
+.upp2_2 {
+	font-size: 2em;
+}
+.mid {
+	display: grid;
+	grid-template-columns: 20% auto 20%;
+}
+.left {
+	background-color: red;
+}
+.main {
+	background-color: blue;
+}
+.right {
+	background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
